@@ -23,6 +23,11 @@ update_to_db.py is a file which updates the attendance to the database.
 s.txt holds the spakers names.
 Registry holds the attendance of all the days and keeps getting updated.
 
+#--------------------------------------------------------------------------------------------------------------------------------------
+
+Inside the folder front end and backend, there is a script, which has all the functions which is used to predict and give attendance.
+It also include a front end in that same script.
+Just run this script after training and properly specifying the path for everything, and it will ask for your voice input and predict who the speaker is among the lost of speakers.
 
 #--------------------------------------------------------------------------------------------------------------------------------------
 
