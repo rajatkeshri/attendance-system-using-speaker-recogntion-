@@ -1,4 +1,4 @@
-Attendance system using speaker recogniton and speech recognition to avoid proxy 
+Attendance system using speaker recogniton and speech recognition to avoid proxy .
 
 
 We used two approaches here - HIDDEN MARKOV MODEL APPROACH AND CNN MODEL APPROACH 
